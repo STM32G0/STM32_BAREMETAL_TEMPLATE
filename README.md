@@ -1,0 +1,2 @@
+# STM32_BAREMETAL_TEMPLATE
+ Szablon Bare Metal dla STM32
